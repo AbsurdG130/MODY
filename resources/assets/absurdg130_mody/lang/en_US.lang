@@ -1,0 +1,17 @@
+tile.MithrilOre.name= mithril ore
+tile.MithrilBlock.name= mithril block
+tile.ManganeseOre.name=manganese ore
+tile.ManganeseBlock.name=manganese block
+
+item.MithrilIngot.name= mithril ingot
+item.MithrilPickaxe.name= mithril pickaxe
+item.MithrilAxe.name= mithril axe
+item.MithrilHelmet.name= mithril helmet
+item.ManganeseShard.name=manganese shard
+item.TinyWoodPiece.name=Tiny Wood Piece
+item.WoodSmallAxe.name=Small Wooden Axe
+item.MithrilSword.name=Mithril Sword
+item.MithrilShovel.name=Mithril Shovel
+
+
+itemGroup.Mody= Mody

@@ -1,0 +1,4 @@
+rhodochrosite ore thing
+2 give 3
+100 = 2 200 = 1 4 = 50
+21 20
